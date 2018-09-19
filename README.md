@@ -1,4 +1,5 @@
-# google-translate-api [![Build Status](https://travis-ci.org/matheuss/google-translate-api.svg?branch=master)](https://travis-ci.org/matheuss/google-translate-api) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo) [![Coverage Status](https://coveralls.io/repos/github/matheuss/google-translate-api/badge.svg?branch=master)](https://coveralls.io/github/matheuss/google-translate-api?branch=master) [![Known Vulnerabilities](https://snyk.io/test/npm/google-translate-api/badge.svg)](https://snyk.io/test/npm/google-translate-api)
+# google-translate-api 
+[![Known Vulnerabilities](https://snyk.io/test/github/NikoBotDev/google-translate-api/badge.svg)](https://snyk.io/test/github/NikoBotDev/google-translate-api)
 
 A **free** and **unlimited** API for Google Translate :dollar::no_entry_sign:
 
@@ -130,4 +131,7 @@ Otherwise, it will be an empty `string` (`''`).
 
 ## License
 
-MIT © [Matheus Fernandes](http://matheus.top)
+**I have nothing to do with Matheus, i just fixed some things in that package.**
+
+MIT © [Matheus Fernandes](http://matheus.top)<br>
+MIT © [NikoBotDev](https://github.com/NikoBotDev/google-translate-api)
